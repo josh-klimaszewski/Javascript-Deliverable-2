@@ -20,7 +20,7 @@ if (prompt("Do you want to play?") === "yes") {
 }
 console.log(prize);
 
-// excercise 3 does not work
+// excercise 3  works
 let exclamation = " ";
 let name = prompt("What is your name?");
 let question = "Would you like to print your name?";
